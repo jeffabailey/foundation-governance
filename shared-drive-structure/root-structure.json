@@ -1,0 +1,110 @@
+                                                                    
+  
+                                                                                        
+                                                                                         
+                                                                                             
+  
+                                                                                         
+                                                                                         
+                                                             
+  
+                                                                                               
+                                                                                     
+  
+[
+                                                                                        
+                                               
+  {
+    "name": "00 – Governance",
+    "children": [
+      { "name": "Charter.gdoc" },
+      { "name": "Roles & Responsibilities.gdoc" },
+      { "name": "Style Guide (Docs).gdoc" },
+                                                                                       
+      { "name": "Workflow: Google -> GitHub" },
+      { "name": "Naming Conventions.gdoc" },
+      { "name": "Permissions Model.gdoc" }
+    ]
+  },
+
+                                                                                         
+                                                                                      
+                                                                       
+  {
+    "name": "01 – Working Groups",
+    "children": [
+      { "name": "Charter.gdoc" },
+      { "name": "<WG Name> – Documentation" },
+      { "name": "<WG Name> – Meetings" }
+    ]
+  },
+
+                                                                                            
+                                                                                       
+                                                  
+  {
+    "name": "02 – Drafts & Work-in-Progress",
+    "children": [
+      { "name": "Articles" },
+      { "name": "Patterns" },
+      { "name": "Case Studies" },
+      { "name": "Training" },
+      { "name": "Blog Posts" },
+      { "name": "Ready for Publication to GitHub" }
+    ]
+  },
+
+                                                                                           
+                                                 
+  {
+    "name": "03 – Published (To Github)"
+  },
+
+                                                                                                    
+  {
+    "name": "04 – Assets",
+    "children": [
+      {
+        "name": "Brand & Visuals",
+        "children": [
+          { "name": "Logo Variants" },
+          { "name": "Color Guides" },
+          { "name": "Diagrams" }
+        ]
+      }
+    ]
+  },
+
+                                                                           
+  {
+    "name": "05 – Templates",
+    "children": [
+      { "name": "Case Study Template.gdoc" },
+      { "name": "Working Group Charter Template.gdoc" }
+    ]
+  },
+
+                                                                                 
+  {
+    "name": "06 – Community & Meetings"
+  },
+
+                                                                                               
+  {
+    "name": "07 – Outreach & Education"
+  },
+
+                                                                                           
+                                                
+  {
+    "name": "08 – Credentials"
+  },
+
+                                                                                          
+                                                           
+  {
+    "name": "09 – Archives",
+    "children": [{ "name": "2026" }, { "name": "2027" }]
+  }
+]
+
